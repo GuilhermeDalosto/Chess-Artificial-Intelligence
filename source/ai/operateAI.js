@@ -1,4 +1,4 @@
-class operateAI {
+class OperateAI {
 
     static minimax (depth, game, alpha, beta, isMaximisingPlayer) {
         positionCount++;
